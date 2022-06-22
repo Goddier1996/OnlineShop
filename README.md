@@ -1,4 +1,4 @@
-# online Pet shop  -  javaScript , html , css
+# online Pet shop - javaScript , html , css
 
 home page :
                                                 
@@ -16,17 +16,17 @@ home page :
 
 prodcut page :
 
- ![9](https://user-images.githubusercontent.com/59862302/174879234-87280442-c33f-432e-9258-3e1096221d6f.jpg)
+![9](https://user-images.githubusercontent.com/59862302/174879234-87280442-c33f-432e-9258-3e1096221d6f.jpg)
  
- ![10](https://user-images.githubusercontent.com/59862302/174879268-f66ddcdb-7fb7-40d1-a9a9-18dbc39a33f6.jpg)
+![10](https://user-images.githubusercontent.com/59862302/174879268-f66ddcdb-7fb7-40d1-a9a9-18dbc39a33f6.jpg)
                                    
 category product page :
                                               
- ![6](https://user-images.githubusercontent.com/59862302/174879435-31d198c6-b6f2-4a29-9d6e-4f672584f1a0.jpg)
+![6](https://user-images.githubusercontent.com/59862302/174879435-31d198c6-b6f2-4a29-9d6e-4f672584f1a0.jpg)
  
- ![7](https://user-images.githubusercontent.com/59862302/174879474-b3d6ff09-557a-4d53-9181-797ff786751a.jpg)
+![7](https://user-images.githubusercontent.com/59862302/174879474-b3d6ff09-557a-4d53-9181-797ff786751a.jpg)
 
- ![8](https://user-images.githubusercontent.com/59862302/174879485-4bbc1418-a25f-4f1e-ba15-c9ebaa978847.jpg)
+![8](https://user-images.githubusercontent.com/59862302/174879485-4bbc1418-a25f-4f1e-ba15-c9ebaa978847.jpg)
                                     
 
 
